@@ -9,7 +9,7 @@ def test_create_product() -> None:
         '2023-07-12',
         '2024-12-11',
         '1234',
-        'Armazenar em local com materais comburentes.'
+        'Armazenar em local com materais comburentes'
     )
 
     assert product.id == '1'
@@ -19,5 +19,5 @@ def test_create_product() -> None:
     assert product.expiration_date == '2024-12-11'
     assert product.serial_number == '1234'
     assert product.storage_instructions == (
-        'Armazenar em local com materais comburentes.'
+        'Armazenar em local com materais comburentes'
     )
