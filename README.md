@@ -22,7 +22,7 @@ Clone o projeto
 Entre no diretório
 
 ```bash
-  cd trybe-31-invetory-report
+  cd trybe-31-invetory-report/
 ```
 
 Crie e ative ambiente virtual
